@@ -1,0 +1,338 @@
+2024-12-29 14:29:58,050 - INFO - Starting ETL pipeline
+2024-12-29 14:29:58,051 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-29 14:29:58,051 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-29 14:29:58,068 - INFO - Finished extracting CSV file in 0:00:00.017770
+2024-12-29 14:29:58,074 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-29 14:34:23,753 - INFO - Starting ETL pipeline
+2024-12-29 14:34:23,753 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-29 14:34:23,754 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-29 14:34:23,754 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-29 14:34:23,754 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-29 14:34:56,397 - INFO - Starting ETL pipeline
+2024-12-29 14:34:56,398 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-29 14:34:56,399 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-29 14:34:56,402 - INFO - Finished extracting CSV file in 0:00:00.001992
+2024-12-29 14:34:56,402 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-29 14:35:05,805 - INFO - Starting ETL pipeline
+2024-12-29 14:35:05,805 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-29 14:35:05,805 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-29 14:35:05,812 - INFO - Finished extracting CSV file in 0:00:00.007826
+2024-12-29 14:35:05,814 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-29 14:35:07,057 - INFO - Starting ETL pipeline
+2024-12-29 14:35:07,057 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-29 14:35:07,057 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-29 14:35:07,057 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-29 14:35:07,057 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-29 14:35:08,037 - INFO - Starting ETL pipeline
+2024-12-29 14:35:08,037 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-29 14:35:08,037 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-29 14:35:08,037 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-29 14:35:08,037 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-29 14:40:52,298 - INFO - Starting ETL pipeline
+2024-12-29 14:40:52,298 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-29 14:40:52,299 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-29 14:40:52,302 - INFO - Finished extracting CSV file in 0:00:00.001514
+2024-12-29 14:40:52,302 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-29 14:42:51,491 - INFO - Starting ETL pipeline
+2024-12-29 14:42:51,491 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-29 14:42:51,491 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-29 14:42:51,491 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-29 14:42:51,491 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-29 14:45:11,060 - INFO - Starting ETL pipeline
+2024-12-29 14:45:11,061 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-29 14:45:11,061 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-29 14:45:11,062 - INFO - Finished extracting CSV file in 0:00:00.001000
+2024-12-29 14:45:11,063 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-29 14:45:11,090 - INFO - Finished extracting JSON file in 0:00:00.027332
+2024-12-29 14:45:11,091 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source1.xml
+2024-12-29 14:45:11,092 - INFO - Finished extracting XML file in 0:00:00.001001
+2024-12-29 14:45:11,092 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source2.csv
+2024-12-29 14:45:11,096 - INFO - Finished extracting CSV file in 0:00:00.003450
+2024-12-29 14:45:11,096 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source2.json
+2024-12-29 14:45:11,099 - INFO - Finished extracting JSON file in 0:00:00.003704
+2024-12-29 14:45:11,100 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source2.xml
+2024-12-29 14:45:11,102 - INFO - Finished extracting XML file in 0:00:00.001878
+2024-12-29 14:45:11,102 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source3.csv
+2024-12-29 14:45:11,105 - INFO - Finished extracting CSV file in 0:00:00.003197
+2024-12-29 14:45:11,106 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source3.json
+2024-12-29 14:45:11,109 - INFO - Finished extracting JSON file in 0:00:00.002160
+2024-12-29 14:45:11,109 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source3.xml
+2024-12-29 14:45:11,150 - INFO - Finished extracting XML file in 0:00:00.040935
+2024-12-29 14:45:11,151 - INFO - Finished extracting all files in 0:00:00.089658
+2024-12-29 14:45:11,151 - INFO - Transforming data
+2024-12-29 14:45:11,152 - INFO - Finished transforming data in 0:00:00.001001
+2024-12-29 14:45:11,152 - INFO - Loading data into CSV file: C:/Users/91798/Desktop/ME36/source/output_data.csv
+2024-12-29 14:45:11,160 - INFO - Data successfully loaded into C:/Users/91798/Desktop/ME36/source/output_data.csv in 0:00:00.008567
+2024-12-29 14:45:11,160 - INFO - ETL pipeline completed successfully
+2024-12-31 14:59:20,032 - INFO - Starting ETL pipeline
+2024-12-31 14:59:20,032 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-31 14:59:20,032 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\output_data.csv
+2024-12-31 14:59:20,048 - INFO - Finished extracting CSV file in 0:00:00.016119
+2024-12-31 14:59:20,062 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-31 14:59:20,064 - INFO - Finished extracting CSV file in 0:00:00.002012
+2024-12-31 14:59:20,064 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-31 14:59:20,078 - INFO - Finished extracting JSON file in 0:00:00.014091
+2024-12-31 14:59:20,080 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source1.xml
+2024-12-31 14:59:20,080 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 14:59:20,080 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source2.csv
+2024-12-31 14:59:20,083 - INFO - Finished extracting CSV file in 0:00:00.002956
+2024-12-31 14:59:20,085 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source2.json
+2024-12-31 14:59:20,088 - INFO - Finished extracting JSON file in 0:00:00.003079
+2024-12-31 14:59:20,088 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source2.xml
+2024-12-31 14:59:20,102 - INFO - Finished extracting XML file in 0:00:00.013717
+2024-12-31 14:59:20,102 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source3.csv
+2024-12-31 14:59:20,102 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-31 14:59:20,102 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source3.json
+2024-12-31 14:59:20,118 - INFO - Finished extracting JSON file in 0:00:00.015772
+2024-12-31 14:59:20,118 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source3.xml
+2024-12-31 14:59:20,118 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 14:59:20,134 - INFO - Finished extracting all files in 0:00:00.101674
+2024-12-31 14:59:20,134 - INFO - Transforming data
+2024-12-31 14:59:20,134 - INFO - Finished transforming data in 0:00:00
+2024-12-31 14:59:20,134 - INFO - Loading data into CSV file: C:/Users/91798/Desktop/ME36/source/output_data.csv
+2024-12-31 14:59:20,151 - INFO - Data successfully loaded into C:/Users/91798/Desktop/ME36/source/output_data.csv in 0:00:00.017344
+2024-12-31 14:59:20,151 - INFO - ETL pipeline completed successfully
+2024-12-31 15:00:44,523 - INFO - Starting ETL pipeline
+2024-12-31 15:00:44,523 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-31 15:00:44,523 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-31 15:00:44,525 - INFO - Finished extracting CSV file in 0:00:00.002155
+2024-12-31 15:00:44,527 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-31 15:00:44,530 - INFO - Finished extracting JSON file in 0:00:00.003463
+2024-12-31 15:00:44,530 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source1.xml
+2024-12-31 15:00:44,531 - INFO - Finished extracting XML file in 0:00:00.001073
+2024-12-31 15:00:44,531 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source2.csv
+2024-12-31 15:00:44,533 - INFO - Finished extracting CSV file in 0:00:00.001717
+2024-12-31 15:00:44,533 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source2.json
+2024-12-31 15:00:44,533 - INFO - Finished extracting JSON file in 0:00:00
+2024-12-31 15:00:44,533 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source2.xml
+2024-12-31 15:00:44,533 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:00:44,533 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source3.csv
+2024-12-31 15:00:44,533 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-31 15:00:44,533 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source3.json
+2024-12-31 15:00:44,533 - INFO - Finished extracting JSON file in 0:00:00
+2024-12-31 15:00:44,533 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source3.xml
+2024-12-31 15:00:44,533 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:00:44,533 - INFO - Finished extracting all files in 0:00:00.010465
+2024-12-31 15:00:44,533 - INFO - Transforming data
+2024-12-31 15:00:44,533 - INFO - Finished transforming data in 0:00:00
+2024-12-31 15:00:44,533 - INFO - Loading data into CSV file: C:/Users/91798/Desktop/ME36/source/output_data.csv
+2024-12-31 15:00:44,533 - INFO - Data successfully loaded into C:/Users/91798/Desktop/ME36/source/output_data.csv in 0:00:00
+2024-12-31 15:00:44,533 - INFO - ETL pipeline completed successfully
+2024-12-31 15:12:37,165 - INFO - Starting ETL pipeline
+2024-12-31 15:12:37,165 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-31 15:12:37,167 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-31 15:12:37,167 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-31 15:12:37,167 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-31 15:12:37,175 - INFO - Finished extracting JSON file in 0:00:00.007536
+2024-12-31 15:12:37,175 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source1.xml
+2024-12-31 15:12:37,175 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:12:37,175 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source2.csv
+2024-12-31 15:12:37,175 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-31 15:12:37,178 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source2.json
+2024-12-31 15:12:37,181 - INFO - Finished extracting JSON file in 0:00:00.002011
+2024-12-31 15:12:37,181 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source2.xml
+2024-12-31 15:12:37,181 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:12:37,181 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source3.csv
+2024-12-31 15:12:37,183 - INFO - Finished extracting CSV file in 0:00:00.002561
+2024-12-31 15:12:37,183 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source3.json
+2024-12-31 15:12:37,185 - INFO - Finished extracting JSON file in 0:00:00.002009
+2024-12-31 15:12:37,185 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source3.xml
+2024-12-31 15:12:37,185 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:12:37,185 - INFO - Finished extracting all files in 0:00:00.020019
+2024-12-31 15:12:37,185 - INFO - Transforming data
+2024-12-31 15:12:37,185 - INFO - Finished transforming data in 0:00:00
+2024-12-31 15:12:37,185 - INFO - Loading data into CSV file: C:/Users/91798/Desktop/ME36/source/output_data.csv
+2024-12-31 15:12:37,187 - INFO - Data successfully loaded into C:/Users/91798/Desktop/ME36/source/output_data.csv in 0:00:00.002008
+2024-12-31 15:12:37,187 - INFO - ETL pipeline completed successfully
+2024-12-31 15:35:15,081 - INFO - Starting ETL pipeline
+2024-12-31 15:35:15,090 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-31 15:35:15,091 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-31 15:35:15,091 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-31 15:35:15,091 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-31 15:35:15,098 - INFO - Finished extracting JSON file in 0:00:00.006758
+2024-12-31 15:35:15,098 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source1.xml
+2024-12-31 15:35:15,098 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:35:15,098 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source2.csv
+2024-12-31 15:35:15,098 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-31 15:35:15,108 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source2.json
+2024-12-31 15:35:15,108 - INFO - Finished extracting JSON file in 0:00:00
+2024-12-31 15:35:15,108 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source2.xml
+2024-12-31 15:35:15,108 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:35:15,108 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source3.csv
+2024-12-31 15:35:15,117 - INFO - Finished extracting CSV file in 0:00:00.009145
+2024-12-31 15:35:15,117 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source3.json
+2024-12-31 15:35:15,125 - INFO - Finished extracting JSON file in 0:00:00.007969
+2024-12-31 15:35:15,125 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source3.xml
+2024-12-31 15:35:15,125 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:35:15,125 - INFO - Finished extracting all files in 0:00:00.035060
+2024-12-31 15:35:15,125 - INFO - Transforming data
+2024-12-31 15:35:15,125 - INFO - Finished transforming data in 0:00:00
+2024-12-31 15:35:15,125 - INFO - Loading data into CSV file: C:/Users/91798/Desktop/ME36/source/transformed_data.csv
+2024-12-31 15:35:15,125 - INFO - Data successfully loaded into C:/Users/91798/Desktop/ME36/source/transformed_data.csv in 0:00:00
+2024-12-31 15:35:15,125 - INFO - ETL pipeline completed successfully
+2024-12-31 15:35:43,317 - INFO - Starting ETL pipeline
+2024-12-31 15:35:43,317 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-31 15:35:43,318 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-31 15:35:43,320 - INFO - Finished extracting CSV file in 0:00:00.002579
+2024-12-31 15:35:43,321 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-31 15:35:43,326 - INFO - Finished extracting JSON file in 0:00:00.004238
+2024-12-31 15:35:43,326 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source1.xml
+2024-12-31 15:35:43,326 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:35:43,326 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source2.csv
+2024-12-31 15:35:43,326 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-31 15:35:43,326 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source2.json
+2024-12-31 15:35:43,333 - INFO - Finished extracting JSON file in 0:00:00.007806
+2024-12-31 15:35:43,333 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source2.xml
+2024-12-31 15:35:43,335 - INFO - Finished extracting XML file in 0:00:00.001163
+2024-12-31 15:35:43,335 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source3.csv
+2024-12-31 15:35:43,335 - INFO - Finished extracting CSV file in 0:00:00.000674
+2024-12-31 15:35:43,335 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source3.json
+2024-12-31 15:35:43,335 - INFO - Finished extracting JSON file in 0:00:00
+2024-12-31 15:35:43,335 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source3.xml
+2024-12-31 15:35:43,335 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:35:43,335 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\transformed_data.csv
+2024-12-31 15:35:43,342 - INFO - Finished extracting CSV file in 0:00:00.006655
+2024-12-31 15:35:43,342 - INFO - Finished extracting all files in 0:00:00.025299
+2024-12-31 15:35:43,342 - INFO - Transforming data
+2024-12-31 15:35:43,342 - INFO - Finished transforming data in 0:00:00
+2024-12-31 15:35:43,342 - INFO - Loading data into CSV file: C:/Users/91798/Desktop/ME36/source/transformed_data.csv
+2024-12-31 15:35:43,342 - INFO - Data successfully loaded into C:/Users/91798/Desktop/ME36/source/transformed_data.csv in 0:00:00
+2024-12-31 15:35:43,342 - INFO - ETL pipeline completed successfully
+2024-12-31 15:35:47,860 - INFO - Starting ETL pipeline
+2024-12-31 15:35:47,860 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-31 15:35:47,860 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-31 15:35:47,862 - INFO - Finished extracting CSV file in 0:00:00.002049
+2024-12-31 15:35:47,863 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-31 15:35:47,866 - INFO - Finished extracting JSON file in 0:00:00.002993
+2024-12-31 15:35:47,867 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source1.xml
+2024-12-31 15:35:47,867 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:35:47,868 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source2.csv
+2024-12-31 15:35:47,869 - INFO - Finished extracting CSV file in 0:00:00.001020
+2024-12-31 15:35:47,869 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source2.json
+2024-12-31 15:35:47,870 - INFO - Finished extracting JSON file in 0:00:00.001022
+2024-12-31 15:35:47,870 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source2.xml
+2024-12-31 15:35:47,870 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:35:47,870 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source3.csv
+2024-12-31 15:35:47,870 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-31 15:35:47,870 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source3.json
+2024-12-31 15:35:47,870 - INFO - Finished extracting JSON file in 0:00:00
+2024-12-31 15:35:47,870 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source3.xml
+2024-12-31 15:35:47,870 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:35:47,870 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\transformed_data.csv
+2024-12-31 15:35:47,870 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-31 15:35:47,870 - INFO - Finished extracting all files in 0:00:00.010151
+2024-12-31 15:35:47,870 - INFO - Transforming data
+2024-12-31 15:35:47,870 - INFO - Finished transforming data in 0:00:00
+2024-12-31 15:35:47,870 - INFO - Loading data into CSV file: C:/Users/91798/Desktop/ME36/source/transformed_data.csv
+2024-12-31 15:35:47,882 - INFO - Data successfully loaded into C:/Users/91798/Desktop/ME36/source/transformed_data.csv in 0:00:00.012070
+2024-12-31 15:35:47,882 - INFO - ETL pipeline completed successfully
+2024-12-31 15:35:48,922 - INFO - Starting ETL pipeline
+2024-12-31 15:35:48,922 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-31 15:35:48,923 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-31 15:35:48,925 - INFO - Finished extracting CSV file in 0:00:00.002600
+2024-12-31 15:35:48,927 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-31 15:35:48,929 - INFO - Finished extracting JSON file in 0:00:00.002119
+2024-12-31 15:35:48,930 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source1.xml
+2024-12-31 15:35:48,930 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:35:48,930 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source2.csv
+2024-12-31 15:35:48,932 - INFO - Finished extracting CSV file in 0:00:00.002085
+2024-12-31 15:35:48,933 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source2.json
+2024-12-31 15:35:48,935 - INFO - Finished extracting JSON file in 0:00:00.001518
+2024-12-31 15:35:48,935 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source2.xml
+2024-12-31 15:35:48,935 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:35:48,935 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source3.csv
+2024-12-31 15:35:48,935 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-31 15:35:48,935 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source3.json
+2024-12-31 15:35:48,935 - INFO - Finished extracting JSON file in 0:00:00
+2024-12-31 15:35:48,935 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source3.xml
+2024-12-31 15:35:48,935 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:35:48,935 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\transformed_data.csv
+2024-12-31 15:35:48,947 - INFO - Finished extracting CSV file in 0:00:00.011895
+2024-12-31 15:35:48,947 - INFO - Finished extracting all files in 0:00:00.024481
+2024-12-31 15:35:48,947 - INFO - Transforming data
+2024-12-31 15:35:48,947 - INFO - Finished transforming data in 0:00:00
+2024-12-31 15:35:48,947 - INFO - Loading data into CSV file: C:/Users/91798/Desktop/ME36/source/transformed_data.csv
+2024-12-31 15:35:48,947 - INFO - Data successfully loaded into C:/Users/91798/Desktop/ME36/source/transformed_data.csv in 0:00:00
+2024-12-31 15:35:48,947 - INFO - ETL pipeline completed successfully
+2024-12-31 15:37:42,056 - INFO - Starting ETL pipeline
+2024-12-31 15:37:42,056 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-31 15:37:42,057 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-31 15:37:42,058 - INFO - Finished extracting CSV file in 0:00:00.001023
+2024-12-31 15:37:42,059 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-31 15:37:42,063 - INFO - Finished extracting JSON file in 0:00:00.003933
+2024-12-31 15:37:42,063 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source1.xml
+2024-12-31 15:37:42,064 - INFO - Finished extracting XML file in 0:00:00.001084
+2024-12-31 15:37:42,064 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source2.csv
+2024-12-31 15:37:42,066 - INFO - Finished extracting CSV file in 0:00:00.002049
+2024-12-31 15:37:42,066 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source2.json
+2024-12-31 15:37:42,070 - INFO - Finished extracting JSON file in 0:00:00.004232
+2024-12-31 15:37:42,070 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source2.xml
+2024-12-31 15:37:42,070 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:37:42,070 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source3.csv
+2024-12-31 15:37:42,072 - INFO - Finished extracting CSV file in 0:00:00.001927
+2024-12-31 15:37:42,074 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source3.json
+2024-12-31 15:37:42,074 - INFO - Finished extracting JSON file in 0:00:00
+2024-12-31 15:37:42,074 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source3.xml
+2024-12-31 15:37:42,074 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:37:42,074 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\transformed_data.csv
+2024-12-31 15:37:42,074 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-31 15:37:42,074 - INFO - Finished extracting all files in 0:00:00.018210
+2024-12-31 15:37:42,074 - INFO - Transforming data
+2024-12-31 15:37:42,074 - INFO - Finished transforming data in 0:00:00
+2024-12-31 15:37:42,074 - INFO - Loading data into CSV file: C:/Users/91798/Desktop/ME36/source/transformed_data.csv
+2024-12-31 15:37:42,074 - INFO - Data successfully loaded into C:/Users/91798/Desktop/ME36/source/transformed_data.csv in 0:00:00
+2024-12-31 15:37:42,074 - INFO - ETL pipeline completed successfully
+2024-12-31 15:40:27,513 - INFO - Starting ETL pipeline
+2024-12-31 15:40:27,513 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-31 15:40:27,515 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-31 15:40:27,519 - INFO - Finished extracting CSV file in 0:00:00.004585
+2024-12-31 15:40:27,519 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-31 15:40:27,523 - INFO - Finished extracting JSON file in 0:00:00.004014
+2024-12-31 15:40:27,525 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source1.xml
+2024-12-31 15:40:27,525 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:40:27,525 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source2.csv
+2024-12-31 15:40:27,527 - INFO - Finished extracting CSV file in 0:00:00.001508
+2024-12-31 15:40:27,529 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source2.json
+2024-12-31 15:40:27,531 - INFO - Finished extracting JSON file in 0:00:00.002009
+2024-12-31 15:40:27,536 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source2.xml
+2024-12-31 15:40:27,536 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:40:27,536 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source3.csv
+2024-12-31 15:40:27,538 - INFO - Finished extracting CSV file in 0:00:00.002008
+2024-12-31 15:40:27,538 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source3.json
+2024-12-31 15:40:27,543 - INFO - Finished extracting JSON file in 0:00:00.004489
+2024-12-31 15:40:27,544 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source3.xml
+2024-12-31 15:40:27,544 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:40:27,544 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\transformed_data.csv
+2024-12-31 15:40:27,545 - INFO - Finished extracting CSV file in 0:00:00.001028
+2024-12-31 15:40:27,546 - INFO - Finished extracting all files in 0:00:00.032868
+2024-12-31 15:40:27,546 - INFO - Transforming data
+2024-12-31 15:40:27,546 - INFO - Finished transforming data in 0:00:00
+2024-12-31 15:40:27,546 - INFO - Loading data into CSV file: C:/Users/91798/Desktop/ME36/source/transformed_data.csv
+2024-12-31 15:40:27,549 - INFO - Data successfully loaded into C:/Users/91798/Desktop/ME36/source/transformed_data.csv in 0:00:00.003722
+2024-12-31 15:40:27,549 - INFO - ETL pipeline completed successfully
+2024-12-31 15:42:00,452 - INFO - Starting ETL pipeline
+2024-12-31 15:42:00,452 - INFO - Extracting data from files in folder: C:/Users/91798/Desktop/ME36/source
+2024-12-31 15:42:00,453 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source1.csv
+2024-12-31 15:42:00,456 - INFO - Finished extracting CSV file in 0:00:00.003081
+2024-12-31 15:42:00,457 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source1.json
+2024-12-31 15:42:00,462 - INFO - Finished extracting JSON file in 0:00:00.004364
+2024-12-31 15:42:00,462 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source1.xml
+2024-12-31 15:42:00,463 - INFO - Finished extracting XML file in 0:00:00.001096
+2024-12-31 15:42:00,463 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source2.csv
+2024-12-31 15:42:00,463 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-31 15:42:00,463 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source2.json
+2024-12-31 15:42:00,468 - INFO - Finished extracting JSON file in 0:00:00.005023
+2024-12-31 15:42:00,468 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source2.xml
+2024-12-31 15:42:00,468 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:42:00,468 - INFO - Extracting data from CSV file: C:/Users/91798/Desktop/ME36/source\source3.csv
+2024-12-31 15:42:00,468 - INFO - Finished extracting CSV file in 0:00:00
+2024-12-31 15:42:00,468 - INFO - Extracting data from JSON file: C:/Users/91798/Desktop/ME36/source\source3.json
+2024-12-31 15:42:00,474 - INFO - Finished extracting JSON file in 0:00:00.006522
+2024-12-31 15:42:00,474 - INFO - Extracting data from XML file: C:/Users/91798/Desktop/ME36/source\source3.xml
+2024-12-31 15:42:00,474 - INFO - Finished extracting XML file in 0:00:00
+2024-12-31 15:42:00,474 - INFO - Finished extracting all files in 0:00:00.022139
+2024-12-31 15:42:00,476 - INFO - Transforming data
+2024-12-31 15:42:00,476 - INFO - Finished transforming data in 0:00:00
+2024-12-31 15:42:00,476 - INFO - Loading data into CSV file: C:/Users/91798/Desktop/ME36/source/transformed_data.csv
+2024-12-31 15:42:00,478 - INFO - Data successfully loaded into C:/Users/91798/Desktop/ME36/source/transformed_data.csv in 0:00:00.002083
+2024-12-31 15:42:00,480 - INFO - ETL pipeline completed successfully
