@@ -1,0 +1,73 @@
+list all unique email addresses:
+----------------------------------------
+SELECT DISTINCT email FROM user_history;
+
+
+Count the number of emails received per day:
+-----------------------------------------------
+SELECT DATE(date) AS day, COUNT(*) AS email_count 
+FROM user_history 
+GROUP BY DATE(date);
+
+
+Find the first and last email date for each email address:
+-------------------------------------------------------------
+SELECT email, 
+       MIN(date) AS first_email_date, 
+       MAX(date) AS last_email_date 
+FROM user_history 
+GROUP BY email;
+
+
+Count the total number of emails from each domain:
+-------------------------------------------------------
+SELECT SUBSTR(email, INSTR(email, '@') + 1) AS domain, 
+       COUNT(*) AS total_emails 
+FROM user_history 
+GROUP BY domain;
+
+
+Find the email addresses that received the most emails:
+------------------------------------------------------------
+SELECT email, COUNT(*) AS email_count 
+FROM user_history 
+GROUP BY email 
+ORDER BY email_count DESC 
+LIMIT 1;
+
+
+Find all emails sent during a specific time range:
+-----------------------------------------------------------
+SELECT * 
+FROM user_history 
+WHERE date BETWEEN '2023-01-01 00:00:00' AND '2023-12-31 23:59:59';
+
+
+List all email addresses with their total number of emails:
+----------------------------------------------------------------
+SELECT email, COUNT(*) AS total_emails 
+FROM user_history 
+GROUP BY email;
+
+
+Find the day with the highest number of emails received:
+---------------------------------------------------------------
+SELECT DATE(date) AS day, COUNT(*) AS email_count 
+FROM user_history 
+GROUP BY DATE(date) 
+ORDER BY email_count DESC 
+LIMIT 1;
+
+
+Find email addresses that received emails only on a specific day:
+-------------------------------------------------------------------
+SELECT email 
+FROM user_history 
+WHERE DATE(date) = '2024-01-01';
+
+
+Get the most recent email for each email address:
+------------------------------------------------------
+SELECT email, MAX(date) AS recent_email 
+FROM user_history 
+GROUP BY email;
